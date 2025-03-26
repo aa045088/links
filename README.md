@@ -38,3 +38,10 @@ https://outlook.live.com/mail/about/index_en.html
 https://www.namesilo.com/
 
 https://forwardemail.net/
+
+激活windows11 管理员权限打开命令行，输入以下三个命令
+slmgr -ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
+
+slmgr -skms kms.0t.net.cn
+
+slmgr -ato

@@ -52,3 +52,11 @@ https://app.box.com
 ===============VMware Workstation Pro激活码=========
 
 MC60H-DWHD5-H80U9-6V85M-8280D
+
+===========跳过联网windows安装=======================
+
+① 按 Shift+F10键，打开命令行程序（部分笔记本选按 Fn+shift+F10）；
+
+② 进命令行输入： oobe\bypassnro 然后敲击回车 （如果无法输入文字，需要鼠标点下窗口，才能输入！）；
+
+

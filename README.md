@@ -48,3 +48,7 @@ slmgr -skms kms.0t.net.cn
 slmgr -ato
 
 https://app.box.com
+
+===============VMware Workstation Pro激活码=========
+
+MC60H-DWHD5-H80U9-6V85M-8280D

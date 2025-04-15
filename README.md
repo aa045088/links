@@ -59,4 +59,10 @@ MC60H-DWHD5-H80U9-6V85M-8280D
 
 ② 进命令行输入： oobe\bypassnro 然后敲击回车 （如果无法输入文字，需要鼠标点下窗口，才能输入！）；
 
+============网站分析==========
 
+https://ahrefs.com/traffic-checker
+
+https://www.semrush.com/analytics/traffic/
+
+https://www.gname.com/

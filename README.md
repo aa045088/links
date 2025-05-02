@@ -39,6 +39,10 @@ https://www.namesilo.com/
 
 https://forwardemail.net/
 
+https://bbqyinliu.com/services
+
+=======激活windows11================================
+
 激活windows11 管理员权限打开命令行，输入以下三个命令
 
 slmgr -ipk W269N-WFGWX-YVC9B-4J6C9-T83GX

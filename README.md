@@ -57,6 +57,8 @@ https://app.box.com
 
 MC60H-DWHD5-H80U9-6V85M-8280D
 
+遇到卡在boot环节按enter键
+
 ===========跳过联网windows安装=======================
 
 ① 按 Shift+F10键，打开命令行程序（部分笔记本选按 Fn+shift+F10）；
@@ -82,3 +84,13 @@ https://newcp.linksmanagement.com/my-keywords
 https://guestpostlinks.net/sites/
 
 https://www.5guanjianci.com/
+
+===================================
+
+http://www.simbizworld.com/cardFlowQuery/usedQuery.html
+
+https://www.ncck.com/
+
+
+  
+
